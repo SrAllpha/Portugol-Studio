@@ -1,4 +1,4 @@
-# Portugol-Studio Da Zuera
+# Portugol Studio Da Zuera
 Aqui você encontrará os algoritimos mais simpáticos do Portugol ;)
 
 -> Os arquivos estarão nominados com o conteúdo para ser mais fácil para você achar
@@ -8,7 +8,8 @@ Aqui você encontrará os algoritimos mais simpáticos do Portugol ;)
    
 -> Aproveite e aprenda tudo, quero ver hein!
 
+<br>
 
-#SrAllpha
- 
-#God Bless The World
+
+<strong> <em>SrAllpha<em> <strong> <br>
+<strong> <em>God Bless The World<em> <strong>
