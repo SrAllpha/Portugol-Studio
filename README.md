@@ -10,4 +10,5 @@ Aqui você encontrará os algoritimos mais simpáticos do Portugol ;)
 
 
 #SrAllpha
+ 
 #God Bless The World
