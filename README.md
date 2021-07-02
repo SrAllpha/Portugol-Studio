@@ -1,4 +1,4 @@
-# Portugol-Studio
+# Portugol-Studio Da Zuera
 Aqui você encontrará os algoritimos mais simpáticos do Portugol ;)
 
 -> Os arquivos estarão nominados com o conteúdo para ser mais fácil para você achar
