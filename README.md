@@ -4,12 +4,12 @@ Aqui você encontrará os algoritimos mais simpáticos do Portugol ;)
 
 Os algoritimos são destinados a quem está aprendendo a lógica de programação, e:
 
--Os arquivos estarão nominados com o conteúdo para ser mais fácil para você achar!
+- Os arquivos estarão nominados com o conteúdo para ser mais fácil para você achar!
 
--Caso queria editar o código, sinta-se a vontade, mas somente para estudo, se quiser colar ou usar deliberadamente, coloque os cŕeditos a mim, ou vou puxar seu pé
+- Caso queria editar o código, sinta-se a vontade, mas somente para estudo, se quiser colar ou usar deliberadamente, coloque os cŕeditos a mim, ou vou puxar seu pé
  enquanto você dorme hein!
    
--Os códigos são autoexplicativos, mas em caso de dúvidas, consulte seu professor!
+- Os códigos são autoexplicativos, mas em caso de dúvidas, consulte seu professor!
 
 <br>
 
